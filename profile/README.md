@@ -1,4 +1,4 @@
-## Hi there! 👋 Welcome to Vynx Solutions 🌈
+## Hi there! 👋 Welcome to Vynx Solutions
 
 **Contribute:** If you would like to contribute to one of our existing projects (repositories), please create a pull request, and we will review it!
 
