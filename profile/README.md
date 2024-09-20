@@ -6,7 +6,7 @@
 
 **FAQ:**
 - **How can I get involved?** You can contribute to our projects by creating pull requests on our repositories.
-- **Do you have any job openings?** We are always looking for talented individuals. Check out our Careers page for current openings.
+- **Do you have any job openings?** We are always looking for talented individuals. Check out projects to contribute and if you contribute enough you will be invited maybe.
 - **Can I collaborate with Vynx Solutions on a project?** We are open to collaborations. Please reach out to discuss further opportunities.
 
 Thank you for considering joining us on this journey! 🚀
